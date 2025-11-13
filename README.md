@@ -50,4 +50,7 @@ Here it uses prophet and tqdm libraries uses and by analysing previous trends an
 It is giving through my voice command 
 ##Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
+## KPI's
+This section will help users to know breifly about dataset and count of the important values so basically user knows what does dataset contains and what is the size of data
+![kpi]
 
