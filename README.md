@@ -7,6 +7,7 @@
 🔄 5. Yearly, Quarterly & Group Comparisons
 🔮 6. Sales Forecasting
 ## ⚡ Quick Insights
+![Quick insights](maersk_images/quickinsights.PNG)
 One-click insights to instantly generate charts for:
 
  1.Top / Bottom 5 Product Categories
