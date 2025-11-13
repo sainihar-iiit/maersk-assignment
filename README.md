@@ -15,7 +15,7 @@ One-click insights to instantly generate charts for:
  2.Top / Bottom 5 States
  3.Top / Bottom 5 Cities
  4.Payment Method Distribution (Pie Chart)
- 
+ ![payment](maersk_images/payment.PNG)
  Each insight opens a dynamic bar/pie chart.
 
 ## 🧠  AI-Driven Query Interpretation
