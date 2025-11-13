@@ -28,13 +28,13 @@ One-click insights to instantly generate charts for:
 ![agent](maersk_images/agent.PNG)
 ### The system understands natural language and automatically:
 
-### 1.Detects category (cities, states, products, sellers)
-### 2.Detects aggregation (sum, avg, count)
-### 3.Detects top/bottom N
-### 4.Detects rank (3rd highest, 2nd lowest)
-### 5.Detects time filters (months like April 2018)
-### 6.Detects comparison queries (e.g., compare 2017 vs 2018)
-### 7.Detects forecasting queries
+#### 1.Detects category (cities, states, products, sellers)
+#### 2.Detects aggregation (sum, avg, count)
+#### 3.Detects top/bottom N
+#### 4.Detects rank (3rd highest, 2nd lowest)
+#### 5.Detects time filters (months like April 2018)
+#### 6.Detects comparison queries (e.g., compare 2017 vs 2018)
+#### 7.Detects forecasting queries
 
 ## Compare sales in 2017 vs 2018
 ![comparision](maersk_images/salescomparision.PNG)
