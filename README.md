@@ -1,6 +1,6 @@
 # [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
 ## About
- This is the Gen AI based agentic system which lets the users get insights on the structured dataset related to operations 
+###   This is the Gen AI based agentic system which lets the users get insights on the structured dataset related to ###operations 
 ## 🚀 Key Features
 🗣️ 1. Voice & Text Query System
 📈 2. KPIs (Key Performance Indicators)
@@ -19,9 +19,7 @@ One-click insights to instantly generate charts for:
  ![top 5 product categories](maersk_images/top5productcategories.PNG)
  2.Top / Bottom 5 States
  ![states](maersk_images/top5state.PNG)
- 3.Top / Bottom 5 Cities
- ![city](maersk_images/top5city.PNG)
- 4.Payment Method Distribution (Pie Chart)
+ 3.Payment Method Distribution (Pie Chart)
  ![payment](maersk_images/payment.PNG)
  Each insight opens a dynamic bar/pie chart.
 
@@ -47,6 +45,8 @@ Here it gives comparies of top 10 states in sales in the year 2017 and 2018 wher
 ## Forecasting sales for next 6 months for top 5 states in sales through voice
 ![forecast](maersk_images/forecast.PNG)
 Here it uses prophet and tqdm libraries uses and by analysing previous trends and previous data ,it will predict or forecast next 6 months sales for top 5 states
+## What is 2nd highest payment method used by customers?
+![payment]()
 It is giving through my voice command 
 ##Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
