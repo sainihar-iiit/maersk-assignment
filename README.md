@@ -37,6 +37,7 @@ Blue line indicates year 2017  and orange line indicates year 2018 where we can 
 ![comparision_state_wise](maersk_images/statecomparision.PNG)
 Here it gives comparies of top 10 states in sales in the year 2017 and 2018 where blue color indicates year 2017 and orange color indicates year 2018
 ## Forecasting sales for next 6 months for top 5 states in sales through voice
+![forecast](maersk_images/forecast.PNG)
 Here it uses prophet and tqdm libraries uses and by analysing previous trends and previous data ,it will predict or forecast next 6 months sales for top 5 states
 It is giving through my voice command 
 ##Compare sales in Q1 2017 vs Q1 2018
