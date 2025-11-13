@@ -15,11 +15,11 @@ Quick insights will basically helps user understands various aspects of data lik
 ![Quick insights](maersk_images/quickinsights.PNG)
 One-click insights to instantly generate charts for:
 
- 1.Top / Bottom 5 Product Categories
+ ## 1.Top / Bottom 5 Product Categories
  ![top 5 product categories](maersk_images/top5productcategories.PNG)
- 2.Top / Bottom 5 States
+ ## 2.Top / Bottom 5 States
  ![states](maersk_images/top5state.PNG)
- 3.Payment Method Distribution (Pie Chart)
+ ## 3.Payment Method Distribution (Pie Chart)
  ![payment](maersk_images/payment.PNG)
  Each insight opens a dynamic bar/pie chart.
 
@@ -50,9 +50,11 @@ It is giving through my voice command
 ![payment](maersk_images/2ndpayment.PNG)
 ## What is 2nd lowest state in sales?
 ![2ndloweststate](maersk_images/2ndloweststate.PNG)
-##Compare sales in Q1 2017 vs Q1 2018
+## What is 3rd highest city in sales?
+![3rdhighestcity]()
+## Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
 ## KPI's
 This section will help users to know breifly about dataset and count of the important values so basically user knows what does dataset contains and what is the size of data
-![kpi]
+![kpi](maersk_images/kpi.PNG)
 
