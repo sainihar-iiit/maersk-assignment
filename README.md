@@ -10,7 +10,7 @@
 One-click insights to instantly generate charts for:
 
  1.Top / Bottom 5 Product Categories
- ![top 5 product categories](maersk_images/top5 product categories.PNG)
+ ![top 5 product categories](maersk_images/top5productcategories.PNG)
  2.Top / Bottom 5 States
  3.Top / Bottom 5 Cities
  4.Payment Method Distribution (Pie Chart)
