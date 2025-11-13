@@ -7,7 +7,10 @@
 🔄 5. Yearly, Quarterly & Group Comparisons
 🔮 6. Sales Forecasting
 ## ⚡ Quick Insights
-![Quick insights](maersk_images/quickinsights.PNG)
+![Quick insights]
+Quick insights will basically helps user understands various aspects of data like what columns are there in dataset
+,In each category which one are performing well.Here in the given quick insights we can get quick insights on product categories,products,city,states.
+(maersk_images/quickinsights.PNG)
 One-click insights to instantly generate charts for:
 
  1.Top / Bottom 5 Product Categories
@@ -21,6 +24,7 @@ One-click insights to instantly generate charts for:
  Each insight opens a dynamic bar/pie chart.
 
 ## 🧠  AI-Driven Query Interpretation
+In this part we can ask agent various aspects of data and agent will answer accordingly and it not only gives answers but also it will give various graphs like bargraph ,pie chart ,lines etc to represent outcome visually in diagrams so it will help user to have better experience
 ![agent](maersk_images/agent.PNG)
 The system understands natural language and automatically:
 
