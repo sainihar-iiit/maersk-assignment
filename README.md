@@ -24,18 +24,18 @@ One-click insights to instantly generate charts for:
  Each insight opens a dynamic bar/pie chart.
 
 ## 🧠  AI-Driven Query Interpretation
-In this part we can ask agent various aspects of data and agent will answer accordingly and it not only gives answers but also it will give various graphs like bargraph ,pie chart ,lines etc to represent outcome visually in diagrams so it will help user to have better experience
+### In this part we can ask agent various aspects of data and agent will answer accordingly and it not only gives answers but also it will give various graphs like bargraph ,pie chart ,lines etc to represent outcome visually in diagrams so it will help user to have better experience
 ![agent](maersk_images/agent.PNG)
-The system understands natural language and automatically:
+### The system understands natural language and automatically:
 
-1.Detects category (cities, states, products, sellers)
-2.Detects aggregation (sum, avg, count)
-3.Detects top/bottom N
-4.Detects rank (3rd highest, 2nd lowest)
-5.Detects time filters (months like April 2018)
-6.Detects comparison queries (e.g., compare 2017 vs 2018)
-7.Detects forecasting queries
-#Analysis
+### 1.Detects category (cities, states, products, sellers)
+### 2.Detects aggregation (sum, avg, count)
+### 3.Detects top/bottom N
+### 4.Detects rank (3rd highest, 2nd lowest)
+### 5.Detects time filters (months like April 2018)
+### 6.Detects comparison queries (e.g., compare 2017 vs 2018)
+### 7.Detects forecasting queries
+
 ## Compare sales in 2017 vs 2018
 ![comparision](maersk_images/salescomparision.PNG)
 Blue line indicates year 2017  and orange line indicates year 2018 where we can see there is a sharp dip in year 2018 after august month because the data is till august 2018
