@@ -45,9 +45,11 @@ Here it gives comparies of top 10 states in sales in the year 2017 and 2018 wher
 ## Forecasting sales for next 6 months for top 5 states in sales through voice
 ![forecast](maersk_images/forecast.PNG)
 Here it uses prophet and tqdm libraries uses and by analysing previous trends and previous data ,it will predict or forecast next 6 months sales for top 5 states
-## What is 2nd highest payment method used by customers?
-![payment]()
 It is giving through my voice command 
+## What is 2nd highest payment method used by customers?
+![payment](maersk_images/2ndpayment.PNG)
+## What is 2nd lowest state in sales?
+![2ndloweststate]()
 ##Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
 ## KPI's
