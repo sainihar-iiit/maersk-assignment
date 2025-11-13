@@ -1,6 +1,6 @@
 # [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
 ## About
-###   This is the Gen AI based agentic system which lets the users get insights on the structured dataset related to ###operations 
+###   This is the Gen AI based agentic system which lets the users get insights on the structured dataset related to operations 
 ## 🚀 Key Features
 🗣️ 1. Voice & Text Query System
 📈 2. KPIs (Key Performance Indicators)
@@ -49,7 +49,7 @@ It is giving through my voice command
 ## What is 2nd highest payment method used by customers?
 ![payment](maersk_images/2ndpayment.PNG)
 ## What is 2nd lowest state in sales?
-![2ndloweststate]()
+![2ndloweststate](maersk_images/2ndloweststate.PNG)
 ##Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
 ## KPI's
