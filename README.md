@@ -54,6 +54,7 @@ It is giving through my voice command
 ![3rdhighestcity](maersk_images/3rdhighest.PNG)
 ## Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
+![q1 2017 vs q1 2018](maersk_images/q12017vsq12018.PNG)
 ## KPI's
 This section will help users to know breifly about dataset and count of the important values so basically user knows what does dataset contains and what is the size of data
 ![kpi](maersk_images/kpi.PNG)
