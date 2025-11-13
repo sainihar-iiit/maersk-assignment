@@ -31,7 +31,7 @@ The system understands natural language and automatically:
 7.Detects forecasting queries
 #Analysis
 ## Compare sales in 2017 vs 2018
-
+![comparision](maersk_images/salescomparision.PNG)
 Blue line indicates year 2017  and orange line indicates year 2018 where we can see there is a sharp dip in year 2018 after august month because the data is till august 2018
 ## Compare sales in 2017 vs 2018 for top 10 States
 Here it gives comparies of top 10 states in sales in the year 2017 and 2018 where blue color indicates year 2017 and orange color indicates year 2018
