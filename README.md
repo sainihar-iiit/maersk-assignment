@@ -51,7 +51,7 @@ It is giving through my voice command
 ## What is 2nd lowest state in sales?
 ![2ndloweststate](maersk_images/2ndloweststate.PNG)
 ## What is 3rd highest city in sales?
-![3rdhighestcity]()
+![3rdhighestcity](maersk_images/3rdhighest.PNG)
 ## Compare sales in Q1 2017 vs Q1 2018
 Here it is comparing sales in first three months in 2017 and first three months in 2018 i.e January,February,March
 ## KPI's
