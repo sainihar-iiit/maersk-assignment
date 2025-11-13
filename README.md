@@ -1,4 +1,6 @@
 # [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
+## About
+ This is the Gen AI based agentic system which lets the users get insights on the structured dataset related to operations 
 ## 🚀 Key Features
 🗣️ 1. Voice & Text Query System
 📈 2. KPIs (Key Performance Indicators)
